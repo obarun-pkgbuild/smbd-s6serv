@@ -3,7 +3,7 @@
 pkgbase=smbd
 _depends=samba
 pkgname="${pkgbase}"-s6serv
-pkgver=0.1
+pkgver=0.2
 pkgrel=1
 pkgdesc="${pkgbase} service for s6"
 arch=(x86_64)
